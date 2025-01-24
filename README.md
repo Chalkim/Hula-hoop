@@ -9,6 +9,8 @@ Implementation of the [HULA](https://conferences.sigcomm.org/sosr/2016/papers/so
 - p4 16 compiler
 - PI
 
+`pip install --upgrade grpcio==1.26.0`
+
 ## Building and running
 
 - Generate topology using `topology-generation/fattree.py` script or use the default one.
